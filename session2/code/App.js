@@ -2,6 +2,8 @@
 // heading.innerHTML = "Namasthe javascript from javascript";
 
 // document.getElementById('root').appendChild(heading);
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 const h1 = React.createElement(
   "h1",
