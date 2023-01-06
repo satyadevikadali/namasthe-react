@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "babel-plugin-transform-remove-console": "^6.9.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3"
+  }
+}
